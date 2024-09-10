@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**BeddouAbdelaziz/BeddouAbdelaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm **Beddou Abdelaziz** 🙋‍♂️ a third-year student at the national institute of electrical and electronic engineering⚡**IGEE**(Ex-INELEC) in Boumerdes.
 
-Here are some ideas to get you started:
+I recently got into coding 💻 because i find it interesting and i believe it will prove beneficial to my career since it provides a lot of opportunities and it's highly demanded.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm willing to stay consistent and keep learning differernt skills and engage in events as well as interacting with communities.
+
+`Always trying to be the better version of myself`
+
+- 🌱 I’m currently learning Java☕
+- 📫 How to reach me: abdelazizbeddou10@gmail.com
+- ⚡ Fun fact: My nickname is Zizou just like the football maestro Zinedine Zidane.
