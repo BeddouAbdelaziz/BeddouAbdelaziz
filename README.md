@@ -8,6 +8,6 @@ I'm willing to stay consistent and keep learning differernt skills and engage in
 
 `Always trying to be the better version of myself`
 
-- 🌱 I’m currently learning Java☕
+- 🌱 I’m currently learning Kotlin📱
 - 📫 How to reach me: abdelazizbeddou10@gmail.com
 - ⚡ Fun fact: My nickname is Zizou just like the football maestro Zinedine Zidane.
